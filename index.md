@@ -1,7 +1,7 @@
 # Serhii Korol
 
-**Software Engineer || Fullstack Angular/.NET Developer**  
-📍 Ukraine | ✉️ KOROLS83@GMAIL.COM | 🔗 [GitHub](https://github.com/SergKorol) | [LinkedIn](https://www.linkedin.com/in/serhii-k-b04303132/)
+**Software Engineer & Fullstack Angular/.NET Developer**  
+📍 Ukraine => ✉️ KOROLS83@GMAIL.COM => 🔗 [GitHub](https://github.com/SergKorol) => [LinkedIn](https://www.linkedin.com/in/serhii-k-b04303132/)
 
 ---
 
