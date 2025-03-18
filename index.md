@@ -27,7 +27,7 @@ public class AboutMe
 
 ## 🏆 Experience
 
-### **Carriere break** *(Dec 2023 - Aug 2024)*
+### **Career break** *(Dec 2023 - Aug 2024)*
 
 ```csharp
 public class Sabbatical
@@ -67,7 +67,7 @@ public class DocumentOnline
         Project 1: developed and customized UI elements in Angular for specific
         clients and implemented a graphical document signature feature.
         Project 2: was dedicated to PDF processing, where migration to modern
-        graphical libraries was implemented and new APIs for new functionality
+        graphical libraries were implemented, and new APIs for new functionality
         were implemented.
         Project 3: worked on processing and encryption of electronic signatures,
         added support for new signature types.
